@@ -1,0 +1,2 @@
+# digitTrainingJava
+Technical discussion
